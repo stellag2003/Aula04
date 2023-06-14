@@ -1,0 +1,7 @@
+D:\Users\stella.gmendonca\source\repos\Aula04Leitura2\Aula04Leitura2\bin\Debug\Aula04Leitura2.exe.config
+D:\Users\stella.gmendonca\source\repos\Aula04Leitura2\Aula04Leitura2\bin\Debug\Aula04Leitura2.exe
+D:\Users\stella.gmendonca\source\repos\Aula04Leitura2\Aula04Leitura2\bin\Debug\Aula04Leitura2.pdb
+D:\Users\stella.gmendonca\source\repos\Aula04Leitura2\Aula04Leitura2\obj\Debug\Aula04Leitura2.csproj.CoreCompileInputs.cache
+D:\Users\stella.gmendonca\source\repos\Aula04Leitura2\Aula04Leitura2\obj\Debug\Aula04Leitura2.exe
+D:\Users\stella.gmendonca\source\repos\Aula04Leitura2\Aula04Leitura2\obj\Debug\Aula04Leitura2.pdb
+D:\Users\stella.gmendonca\source\repos\Aula04Leitura2\Aula04Leitura2\obj\Debug\Aula04Leitura2.csproj.AssemblyReference.cache
